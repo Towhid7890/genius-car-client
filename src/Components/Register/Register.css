@@ -1,0 +1,12 @@
+.register-container{
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+.register-container input:not([type=checkbox]){
+    display: block;
+    width: 90%;
+    margin-bottom: 15px;
+    height: 50px;
+    padding-left: 10px;
+}
